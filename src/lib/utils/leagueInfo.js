@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1,  "463849884735238144"
+      "roster": 1,  "463849884735238144",
       "Lori’s Looters": "Vince",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Chicago", // (optional)
